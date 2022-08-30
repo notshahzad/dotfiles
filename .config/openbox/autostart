@@ -1,0 +1,2 @@
+nitrogen --restore
+tint2 ~/.config/tint2/tint2rc
