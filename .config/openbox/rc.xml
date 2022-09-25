@@ -149,7 +149,7 @@
        or when they are initially placed. Many programs reserve space automatically,
        but you can use this in other cases. -->
   <margins>
-    <top>40</top>
+    <top>10</top>
     <bottom>10</bottom>
     <left>10</left>
     <right>10</right>

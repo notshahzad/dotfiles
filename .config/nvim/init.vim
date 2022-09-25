@@ -22,6 +22,7 @@ Plug 'dylanaraps/wal.vim'
 " Initialize plugin system
 call plug#end()
 
+syntax on
 colorscheme wal
 inoremap jk <ESC>
 nmap <C-n> :NERDTreeToggle<CR>
